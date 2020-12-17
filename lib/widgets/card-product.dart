@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/product.dart';
-import '../ui-elemnts/product-thumbnail.dart';
+import '../widgets/product-thumbnail.dart';
 
 class CardProduct extends StatelessWidget {
   final Product product;

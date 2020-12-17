@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../ui-elemnts/details/product-content.dart';
-import '../ui-elemnts//details/product-cover.dart';
+import '../widgets/details/product-content.dart';
+import '../widgets/details/product-cover.dart';
 import '../mock-data/products.dart';
 import '../models/product.dart';
 

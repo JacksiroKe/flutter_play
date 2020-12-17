@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../ui-elemnts/card-section.dart';
+import '../../widgets/card-section.dart';
 
 import '../../mock-data/products.dart';
 

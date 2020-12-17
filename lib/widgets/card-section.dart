@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../ui-elemnts/card-product.dart';
+import '../widgets/card-product.dart';
 import '../models/product.dart';
 
 class CardSection extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../ui-elemnts/drawer.dart';
-import '../ui-elemnts/search.dart';
+import '../widgets/drawer.dart';
+import '../widgets/search.dart';
 import '../pages/tab_home.dart';
 import '../pages/tab_games.dart';
 
