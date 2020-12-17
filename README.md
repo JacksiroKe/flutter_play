@@ -1,18 +1,16 @@
-# Flutter Play
+# flutter_play
 
-A Google Play clone made using flutter. Using nested tabs and nested scrolls.
-
-![Flutter Play](/assets/flutter-play.png)
+A new Flutter project.
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This project is a starting point for a Flutter application.
 
-### Todo
+A few resources to get you started if this is your first Flutter project:
 
-- [ ] Searchbar with autocomplete
-- [ ] 3rd Level Nested Tabs
-- [ ] Categories Page
-- [ ] More Products Page
-- [ ] Featured Products Section
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

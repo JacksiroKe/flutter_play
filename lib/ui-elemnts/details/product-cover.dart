@@ -41,14 +41,14 @@ class ProductCover extends StatelessWidget {
             _cover(),
             const DecoratedBox(
               decoration: const BoxDecoration(
-                gradient: const LinearGradient(
+                /*gradient: const LinearGradient(
                   begin: const Alignment(0.0, -1.0),
                   end: const Alignment(0.0, -0.4),
-                  colors: const <Color>[
+                  color: const <Color>[
                     const Color(0x60000000),
                     const Color(0x00000000)
                   ],
-                ),
+                ),*/
               ),
             ),
           ],

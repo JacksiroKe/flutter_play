@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:photo_view/photo_view.dart';
 
 class HeroPhotoViewWrapper extends StatelessWidget {
   final ImageProvider imageProvider;
@@ -37,14 +36,14 @@ class HeroPhotoViewWrapper extends StatelessWidget {
         constraints: BoxConstraints.expand(
           height: MediaQuery.of(context).size.height,
         ),
-        child: new PhotoView(
+        /*child: new PhotoView(
           imageProvider: imageProvider,
-          loadingChild: loadingChild,
-          backgroundColor: Colors.black,
+          //loadingChild: loadingChild,
+          //backgroundColor: Colors.black,
           minScale: minScale,
           maxScale: maxScale,
-          heroTag: heroTag,
-        ),
+          //heroTag: heroTag,
+        ),*/
       ),
     );
   }
